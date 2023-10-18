@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SeenaAbdul
 - 👀 I’m interested in machine learning,NLP and data science
-- 🌱 I’m currently learning learning 'LangChain Chat with Your Data'
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @seenaabdul@gmail.com
+- 🌱 I’m currently learning 'using LangChain to Chat with Your Data'
+- 💞️- 📫 How to reach me @seenaabdul@gmail.com
 
 <!---
 SeenaAbdul/SeenaAbdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
